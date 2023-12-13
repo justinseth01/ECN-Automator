@@ -1,10 +1,10 @@
 # ECN-Automator
 This project is a project that automates the engineering documentation process at an
 engineering company. This is written in python and uses the following <br>
-    -   sendgrid api for sending automated emails<br>
-    -   PYQT5 for creating an easy-to-use user interface<br>
-    -   openpyxl for reading, analyzing, and writing to excel documents<br>
-    -   python-docx for creating and editing word documents<br>
+&emsp;-&emsp;sendgrid api for sending automated emails<br>
+&emsp;-&emsp;PYQT5 for creating an easy-to-use user interface<br>
+&emsp;-&emsp;openpyxl for reading, analyzing, and writing to excel documents<br>
+&emsp;-&emsp;python-docx for creating and editing word documents<br>
 
 This program is designed for engineering companies that still use the dated "ECN" (Engineering
 Change Notice) system. Specifically, this program is designed to integrate seamlessly into
@@ -12,12 +12,12 @@ For companies that want to still use the dated "ECN" (Engineering Change Notice)
 this program helps significantly reduce engineering documentation time from 10 minutes to ~1 minute.
 
 Specifically, this program has been designed to do the following:
-    -   Obtain user's ECN information through a UI
-    -   Read, write, and analyze excel sheets based on given inputted information
-        from the user.
-    -   Complete preformatted word documents with the engineering documentation
-        information entered by the user.
-    -   Send automated emails to respective personnel with newly created documentation
+&emsp;-&emsp;Obtain user's ECN information through a UI
+&emsp;-&emsp;Read, write, and analyze excel sheets based on given inputted information
+&emsp;&emsp;from the user.
+&emsp;-&emsp;Complete preformatted word documents with the engineering documentation
+&emsp;&emsp;information entered by the user.
+&emsp;-&emsp;Send automated emails to respective personnel with newly created documentation
 
 All of these tasks originally needed to be done manually, and was a 
 rather tedious task due to its simplicity and how often it needed to be done. 
