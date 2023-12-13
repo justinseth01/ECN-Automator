@@ -1,6 +1,6 @@
 # ECN-Automator
 This project is a project that automates the engineering documentation process at an
-engineering company. This is written in python and uses the following
+engineering company. This is written in python and uses the following \n
     -   sendgrid api for sending automated emails
     -   PYQT5 for creating an easy-to-use user interface
     -   openpyxl for reading, analyzing, and writing to excel documents
