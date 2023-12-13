@@ -1,10 +1,10 @@
 # ECN-Automator
 This project is a project that automates the engineering documentation process at an
-engineering company. This is written in python and uses the following 
-    -   sendgrid api for sending automated emails
-    -   PYQT5 for creating an easy-to-use user interface
-    -   openpyxl for reading, analyzing, and writing to excel documents
-    -   python-docx for creating and editing word documents
+engineering company. This is written in python and uses the following <br>
+    -   sendgrid api for sending automated emails<br>
+    -   PYQT5 for creating an easy-to-use user interface<br>
+    -   openpyxl for reading, analyzing, and writing to excel documents<br>
+    -   python-docx for creating and editing word documents<br>
 
 This program is designed for engineering companies that still use the dated "ECN" (Engineering
 Change Notice) system. Specifically, this program is designed to integrate seamlessly into
