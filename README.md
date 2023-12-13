@@ -11,13 +11,13 @@ Change Notice) system. Specifically, this program is designed to integrate seaml
 For companies that want to still use the dated "ECN" (Engineering Change Notice) documentation system,
 this program helps significantly reduce engineering documentation time from 10 minutes to ~1 minute.
 
-Specifically, this program has been designed to do the following:
-&emsp;-&emsp;Obtain user's ECN information through a UI
-&emsp;-&emsp;Read, write, and analyze excel sheets based on given inputted information
-&emsp;&emsp;from the user.
-&emsp;-&emsp;Complete preformatted word documents with the engineering documentation
-&emsp;&emsp;information entered by the user.
-&emsp;-&emsp;Send automated emails to respective personnel with newly created documentation
+Specifically, this program has been designed to do the following:<br>
+&emsp;-&emsp;Obtain user's ECN information through a UI<br>
+&emsp;-&emsp;Read, write, and analyze excel sheets based on given inputted information<br>
+&emsp;&emsp;from the user.<br>
+&emsp;-&emsp;Complete preformatted word documents with the engineering documentation<br>
+&emsp;&emsp;information entered by the user.<br>
+&emsp;-&emsp;Send automated emails to respective personnel with newly created documentation<br>
 
 All of these tasks originally needed to be done manually, and was a 
 rather tedious task due to its simplicity and how often it needed to be done. 
